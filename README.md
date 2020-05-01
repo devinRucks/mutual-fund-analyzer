@@ -18,4 +18,4 @@
 * Javascript
 * [Puppeteer](https://pptr.dev/) - Web Scraper
 * [MutualFunds.com](https://mutualfunds.com/) - Mutual Fund Names
-* [Yahoo Finance] (https://finance.yahoo.com/) - Mutual Fund Holdings
+* [Yahoo Finance](https://finance.yahoo.com/) - Mutual Fund Holdings
